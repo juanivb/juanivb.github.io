@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>courses | Matteo Courthoud</title>
-    <link>https://matteocourthoud.github.io/tag/courses/</link>
-      <atom:link href="https://matteocourthoud.github.io/tag/courses/index.xml" rel="self" type="application/rss+xml" />
+    <title>courses | Juan Ignacio Vázquez Broquá</title>
+    <link>https://juanivb.github.io/tag/courses/</link>
+      <atom:link href="https://juanivb.github.io/tag/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>courses</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Theme edited by Matteo Courthoud© - Want to have a similar website? [Guide here](https://matteocourthoud.github.io/post/website/).</copyright><lastBuildDate>Thu, 10 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Theme edited by Juan Ignacio Vázquez Broquá© - Want to have a similar website? [Guide here](https://juanivb.github.io/post/website/).</copyright><lastBuildDate>Thu, 10 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://matteocourthoud.github.io/media/icon_hu03e9b3967b83fd39296ec9da5ff1ea05_201175_512x512_fill_lanczos_center_3.png</url>
+      <url>https://juanivb.github.io/media/icon_hu03e9b3967b83fd39296ec9da5ff1ea05_201175_512x512_fill_lanczos_center_3.png</url>
       <title>courses</title>
-      <link>https://matteocourthoud.github.io/tag/courses/</link>
+      <link>https://juanivb.github.io/tag/courses/</link>
     </image>
-    
+
     <item>
       <title>Free PhD Courses in Economics and Data Science</title>
-      <link>https://matteocourthoud.github.io/post/courses/</link>
+      <link>https://juanivb.github.io/post/courses/</link>
       <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://matteocourthoud.github.io/post/courses/</guid>
+      <guid>https://juanivb.github.io/post/courses/</guid>
       <description>&lt;p&gt;In this page I will collect lectures and materials for graduate courses in Economics and Social Sciences.&lt;/p&gt;
 &lt;p&gt;I will only link to lectures and materials that are freely available. I will not link to courses hosted on MOOC websites or that require university credentials to access.&lt;/p&gt;
 &lt;p&gt;A special mention goes to the following:&lt;/p&gt;
@@ -178,6 +178,6 @@
 &lt;iframe src=&#34;https://docs.google.com/forms/d/e/1FAIpQLSf672Vwguhe9GAmFGqtPMeGWzTamwzU2VcMtEFgaJWnP3YtBw/viewform?embedded=true&#34; width=&#34;640&#34; height=&#34;439&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;Loading…&lt;/iframe&gt;
 </description>
     </item>
-    
+
   </channel>
 </rss>

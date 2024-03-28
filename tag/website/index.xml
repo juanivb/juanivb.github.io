@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>website | Matteo Courthoud</title>
-    <link>https://matteocourthoud.github.io/tag/website/</link>
-      <atom:link href="https://matteocourthoud.github.io/tag/website/index.xml" rel="self" type="application/rss+xml" />
+    <title>website | Juan Ignacio Vázquez Broquá</title>
+    <link>https://juanivb.github.io/tag/website/</link>
+      <atom:link href="https://juanivb.github.io/tag/website/index.xml" rel="self" type="application/rss+xml" />
     <description>website</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Theme edited by Matteo Courthoud© - Want to have a similar website? [Guide here](https://matteocourthoud.github.io/post/website/).</copyright><lastBuildDate>Thu, 23 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Theme edited by Juan Ignacio Vázquez Broquá© - Want to have a similar website? [Guide here](https://juanivb.github.io/post/website/).</copyright><lastBuildDate>Thu, 23 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://matteocourthoud.github.io/media/icon_hu03e9b3967b83fd39296ec9da5ff1ea05_201175_512x512_fill_lanczos_center_3.png</url>
+      <url>https://juanivb.github.io/media/icon_hu03e9b3967b83fd39296ec9da5ff1ea05_201175_512x512_fill_lanczos_center_3.png</url>
       <title>website</title>
-      <link>https://matteocourthoud.github.io/tag/website/</link>
+      <link>https://juanivb.github.io/tag/website/</link>
     </image>
-    
+
     <item>
       <title>How To Make A Personal Website with Hugo</title>
-      <link>https://matteocourthoud.github.io/post/website/</link>
+      <link>https://juanivb.github.io/post/website/</link>
       <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://matteocourthoud.github.io/post/website/</guid>
+      <guid>https://juanivb.github.io/post/website/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;In this tutorial, I am going to explain how to build a personal website on &lt;a href=&#34;https://www.github.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt; using the &lt;strong&gt;&lt;a href=&#34;https://wowchemy.com/docs/getting-started/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt;&lt;/strong&gt; theme from &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;, also known as &lt;a href=&#34;https://themes.gohugo.io/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Note that Hugo offers &lt;a href=&#34;https://themes.gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;many other website templates&lt;/a&gt;. I suggest checking them out. Some interesting alternatives are:&lt;/p&gt;
@@ -41,7 +41,7 @@
 &lt;img src=&#34;img/new_repo.png&#34; alt=&#34;new_repo&#34; style=&#34;zoom:50%;&#34; /&gt;
 &lt;p&gt;Name the repository &lt;code&gt;username.github.io&lt;/code&gt; where &lt;code&gt;username&lt;/code&gt; is your Github username.&lt;/p&gt;
 &lt;img src=&#34;img/name_repo.png&#34; alt=&#34;name_repo&#34; style=&#34;zoom:40%;&#34; /&gt;
-&lt;p&gt;In my case, my github username is &lt;code&gt;matteocourthoud&lt;/code&gt;, therefore the repository is &lt;code&gt;matteocourthoud.github.io&lt;/code&gt; and my personal website is &lt;a href=&#34;https://matteocourthoud.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matteocourthoud.github.io&lt;/a&gt;. Use the default settings when creating the repository.&lt;/p&gt;
+&lt;p&gt;In my case, my github username is &lt;code&gt;juanivb&lt;/code&gt;, therefore the repository is &lt;code&gt;juanivb.github.io&lt;/code&gt; and my personal website is &lt;a href=&#34;https://juanivb.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://juanivb.github.io&lt;/a&gt;. Use the default settings when creating the repository.&lt;/p&gt;
 &lt;h3 id=&#34;2-install-blogdown-and-hugo&#34;&gt;2. Install Blogdown and Hugo&lt;/h3&gt;
 &lt;p&gt;Now you need to install Blogdown, which is the program what will allow you to build and deploy your website, and Hugo, which is the template generator.&lt;/p&gt;
 &lt;p&gt;Switch to RStudio and type the following commands&lt;/p&gt;
@@ -191,7 +191,7 @@ mono_font = &amp;quot;Roboto Mono&amp;quot;
 &lt;li&gt;In &lt;code&gt;layouts\partials&lt;/code&gt; to edit the HTML files&lt;/li&gt;
 &lt;li&gt;In &lt;code&gt;assets\scss&lt;/code&gt; to edit the SCSS code&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;If you want to copy my exact theme, I have published my custom theme here: &lt;a href=&#34;https://github.com/matteocourthoud/custom-wowchemy-settings&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/matteocourthoud/custom-wowchemy-settings&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you want to copy my exact theme, I have published my custom theme here: &lt;a href=&#34;https://github.com/juanivb/custom-wowchemy-settings&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/juanivb/custom-wowchemy-settings&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;You have to do the following:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;go inside the &lt;code&gt;theme&lt;/code&gt; folder&lt;/li&gt;
@@ -237,6 +237,6 @@ mono_font = &amp;quot;Roboto Mono&amp;quot;
 &lt;iframe src=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdKqWZQAbHkcNLYvjxZ_fVrAZCJkNmsBtUBCCcfZxYzJCaqIQ/viewform?embedded=true&#34; width=&#34;640&#34; height=&#34;530&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;Loading…&lt;/iframe&gt;
 </description>
     </item>
-    
+
   </channel>
 </rss>
