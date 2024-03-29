@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home | Juani Vázquez Broquá</title>
-    <link>http://localhost:4321/</link>
-      <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://juanivb.github.io/</link>
+      <atom:link href="https://juanivb.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Home</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/logo.svg</url>
+      <url>https://juanivb.github.io/media/logo.svg</url>
       <title>Home</title>
-      <link>http://localhost:4321/</link>
+      <link>https://juanivb.github.io/</link>
     </image>
     
     <item>
       <title>Getting Started</title>
-      <link>http://localhost:4321/docs/getting-started/</link>
+      <link>https://juanivb.github.io/docs/getting-started/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/docs/getting-started/</guid>
+      <guid>https://juanivb.github.io/docs/getting-started/</guid>
       <description>&lt;h2 id=&#34;quick-start-from-template&#34;&gt;Quick Start from Template&lt;/h2&gt;
 &lt;div class=&#34;hb-steps&#34;&gt;
 &lt;h3 id=&#34;initialize-a-new-site&#34;&gt;Initialize a new site&lt;/h3&gt;
@@ -56,18 +56,18 @@
     
     <item>
       <title>Customizing Hugo</title>
-      <link>http://localhost:4321/docs/reference/customization/</link>
+      <link>https://juanivb.github.io/docs/reference/customization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/docs/reference/customization/</guid>
+      <guid>https://juanivb.github.io/docs/reference/customization/</guid>
       <description>&lt;p&gt;View the full docs at &lt;a href=&#34;https://docs.hugoblox.com/getting-started/customize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.hugoblox.com/getting-started/customize/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Project Structure</title>
-      <link>http://localhost:4321/docs/guide/project-structure/</link>
+      <link>https://juanivb.github.io/docs/guide/project-structure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/docs/guide/project-structure/</guid>
+      <guid>https://juanivb.github.io/docs/guide/project-structure/</guid>
       <description>&lt;h2 id=&#34;folder-structure&#34;&gt;Folder Structure&lt;/h2&gt;
 &lt;p&gt;There are &lt;strong&gt;4 main folders for Hugo-based sites&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
@@ -121,9 +121,9 @@
     
     <item>
       <title>Configuration</title>
-      <link>http://localhost:4321/docs/guide/configuration/</link>
+      <link>https://juanivb.github.io/docs/guide/configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/docs/guide/configuration/</guid>
+      <guid>https://juanivb.github.io/docs/guide/configuration/</guid>
       <description>&lt;p&gt;The configuration of your site can be found in &lt;code&gt;config/_default/&lt;/code&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;full-documentation&#34;&gt;Full Documentation&lt;/h2&gt;
 &lt;p&gt;See &lt;a href=&#34;https://docs.hugoblox.com/getting-started/customize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.hugoblox.com/getting-started/customize/&lt;/a&gt;&lt;/p&gt;
@@ -158,17 +158,17 @@
     
     <item>
       <title>Nvidia</title>
-      <link>http://localhost:4321/showcase/nvidia/</link>
+      <link>https://juanivb.github.io/showcase/nvidia/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/showcase/nvidia/</guid>
+      <guid>https://juanivb.github.io/showcase/nvidia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>v2.0.0 Released!</title>
-      <link>http://localhost:4321/blog/v2.0.0/</link>
+      <link>https://juanivb.github.io/blog/v2.0.0/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/blog/v2.0.0/</guid>
+      <guid>https://juanivb.github.io/blog/v2.0.0/</guid>
       <description>&lt;p&gt;Hugo v2.0.0 is now available! This release includes new experimental features to try out, improvements to accessibility, the ability for plugins to customize image optimization in Markdown, and many more improvements and bug fixes.&lt;/p&gt;
 &lt;p&gt;Highlights include:&lt;/p&gt;
 &lt;ul&gt;
@@ -190,9 +190,9 @@
     
     <item>
       <title>v1.0.0 Released!</title>
-      <link>http://localhost:4321/blog/v1.0.0/</link>
+      <link>https://juanivb.github.io/blog/v1.0.0/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/blog/v1.0.0/</guid>
+      <guid>https://juanivb.github.io/blog/v1.0.0/</guid>
       <description>&lt;p&gt;Hugo v1.0.0 is now available! This release includes new experimental features to try out, improvements to accessibility, the ability for plugins to customize image optimization in Markdown, and many more improvements and bug fixes.&lt;/p&gt;
 &lt;p&gt;Highlights include:&lt;/p&gt;
 &lt;ul&gt;
@@ -214,9 +214,9 @@
     
     <item>
       <title>Callout Shortcode</title>
-      <link>http://localhost:4321/docs/guide/shortcodes/callout/</link>
+      <link>https://juanivb.github.io/docs/guide/shortcodes/callout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/docs/guide/shortcodes/callout/</guid>
+      <guid>https://juanivb.github.io/docs/guide/shortcodes/callout/</guid>
       <description>&lt;p&gt;Hugo Blox supports a Markdown extension for callouts, also referred to as alerts or asides.&lt;/p&gt;
 &lt;p&gt;Callouts are a useful feature to draw attention to important or related content such as notes, hints, or warnings in your articles.&lt;/p&gt;
 &lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
@@ -245,9 +245,9 @@
     
     <item>
       <title>Cards Shortcode</title>
-      <link>http://localhost:4321/docs/guide/shortcodes/cards/</link>
+      <link>https://juanivb.github.io/docs/guide/shortcodes/cards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/docs/guide/shortcodes/cards/</guid>
+      <guid>https://juanivb.github.io/docs/guide/shortcodes/cards/</guid>
       <description>&lt;p&gt;A Hugo extension to create cards. Cards can be shown as links or as plain text.&lt;/p&gt;
 &lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
 
@@ -307,9 +307,9 @@
     
     <item>
       <title>Community</title>
-      <link>http://localhost:4321/community/</link>
+      <link>https://juanivb.github.io/community/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/community/</guid>
+      <guid>https://juanivb.github.io/community/</guid>
       <description>&lt;h2 id=&#34;support&#34;&gt;Support&lt;/h2&gt;
 &lt;p&gt;Get support fast. Hugo Blox has the largest Hugo community on Discord, consisting of thousands of creators, developers, and startups.&lt;/p&gt;
 &lt;h2 id=&#34;docs&#34;&gt;Docs&lt;/h2&gt;
@@ -343,18 +343,18 @@
     
     <item>
       <title>Internationalization (i18n)</title>
-      <link>http://localhost:4321/docs/reference/i18n/</link>
+      <link>https://juanivb.github.io/docs/reference/i18n/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/docs/reference/i18n/</guid>
+      <guid>https://juanivb.github.io/docs/reference/i18n/</guid>
       <description>&lt;p&gt;Hugo Blox enables you to easily edit the interface text as well as translating your site into multiple languages using Hugo&amp;rsquo;s &lt;a href=&#34;https://gohugo.io/content-management/multilingual/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;multilingual&lt;/a&gt; feature.&lt;/p&gt;
 &lt;p&gt;View the full docs at &lt;a href=&#34;https://docs.hugoblox.com/reference/language/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.hugoblox.com/reference/language/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Spoiler</title>
-      <link>http://localhost:4321/docs/guide/shortcodes/toggle/</link>
+      <link>https://juanivb.github.io/docs/guide/shortcodes/toggle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/docs/guide/shortcodes/toggle/</guid>
+      <guid>https://juanivb.github.io/docs/guide/shortcodes/toggle/</guid>
       <description>&lt;p&gt;A Hugo shortcode to toggle collapsible content.&lt;/p&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-0&#34;&gt;
@@ -378,9 +378,9 @@
     
     <item>
       <title>Steps Shortcode</title>
-      <link>http://localhost:4321/docs/guide/shortcodes/steps/</link>
+      <link>https://juanivb.github.io/docs/guide/shortcodes/steps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/docs/guide/shortcodes/steps/</guid>
+      <guid>https://juanivb.github.io/docs/guide/shortcodes/steps/</guid>
       <description>&lt;p&gt;Display a series of steps, such as for a tutorial.&lt;/p&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 &lt;div class=&#34;hb-steps&#34;&gt;

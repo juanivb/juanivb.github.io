@@ -2,91 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/docs/getting-started/</loc>
+    <loc>https://juanivb.github.io/docs/getting-started/</loc>
     <lastmod>2024-02-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/docs/reference/customization/</loc>
+    <loc>https://juanivb.github.io/docs/reference/customization/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/docs/guide/project-structure/</loc>
+    <loc>https://juanivb.github.io/docs/guide/project-structure/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/docs/guide/configuration/</loc>
+    <loc>https://juanivb.github.io/docs/guide/configuration/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/docs/guide/</loc>
+    <loc>https://juanivb.github.io/docs/guide/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/docs/</loc>
+    <loc>https://juanivb.github.io/docs/</loc>
     <lastmod>2024-02-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/showcase/nvidia/</loc>
+    <loc>https://juanivb.github.io/showcase/nvidia/</loc>
     <lastmod>2024-02-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/showcase/</loc>
+    <loc>https://juanivb.github.io/showcase/</loc>
     <lastmod>2024-02-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/blog/</loc>
+    <loc>https://juanivb.github.io/blog/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tag/hugo/</loc>
+    <loc>https://juanivb.github.io/tag/hugo/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tag/hugo-blox/</loc>
+    <loc>https://juanivb.github.io/tag/hugo-blox/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tag/markdown/</loc>
+    <loc>https://juanivb.github.io/tag/markdown/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/</loc>
+    <loc>https://juanivb.github.io/tags/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/blog/v2.0.0/</loc>
+    <loc>https://juanivb.github.io/blog/v2.0.0/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/</loc>
+    <loc>https://juanivb.github.io/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/blog/v1.0.0/</loc>
+    <loc>https://juanivb.github.io/blog/v1.0.0/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/docs/guide/shortcodes/callout/</loc>
+    <loc>https://juanivb.github.io/docs/guide/shortcodes/callout/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/docs/guide/shortcodes/cards/</loc>
+    <loc>https://juanivb.github.io/docs/guide/shortcodes/cards/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/categories/</loc>
+    <loc>https://juanivb.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/community/</loc>
+    <loc>https://juanivb.github.io/community/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/docs/reference/i18n/</loc>
+    <loc>https://juanivb.github.io/docs/reference/i18n/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/docs/reference/</loc>
+    <loc>https://juanivb.github.io/docs/reference/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/docs/guide/shortcodes/</loc>
+    <loc>https://juanivb.github.io/docs/guide/shortcodes/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/docs/guide/shortcodes/toggle/</loc>
+    <loc>https://juanivb.github.io/docs/guide/shortcodes/toggle/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/docs/guide/shortcodes/steps/</loc>
+    <loc>https://juanivb.github.io/docs/guide/shortcodes/steps/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
