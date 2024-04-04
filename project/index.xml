@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | JIVB</title>
+    <link>http://localhost:4321/project/</link>
+      <atom:link href="http://localhost:4321/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu510dfbb4d49cf064fa515b85dc2b3efb_130463_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>http://localhost:4321/project/</link>
+    </image>
+    
+    <item>
+      <title>External Project</title>
+      <link>http://localhost:4321/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series</title>
+      <link>http://localhost:4321/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/example/</guid>
+      <description> &lt;!-- - icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf --&gt;
+&lt;p&gt;I wholeheartedly believe the best way to guide the learning experience of this subject is a four steps process:\n&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; Grasping the &lt;strong&gt;historical context&lt;/strong&gt; in which the idea was born and the state of the art at said point in time, to fully understand the driving forces behind them and the way they where received&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt; Live statistical programming &lt;strong&gt;replications&lt;/strong&gt; of historical papers, to empirically validate their relevance regardless of their recognition in mainstream circles&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3.&lt;/strong&gt; Applying the use of the idea on &lt;strong&gt;many different cases&lt;/strong&gt; (datasets) to understand their value today&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4.&lt;/strong&gt; Finally, &lt;strong&gt;teaching&lt;/strong&gt; the subject to others in order to consolidate the learning experience and avoid blindspots&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m currently working on sharing the course material as am online asynchronous course&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

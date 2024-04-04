@@ -2,91 +2,132 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://juanivb.github.io/docs/getting-started/</loc>
-    <lastmod>2024-02-17T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/post/</loc>
+    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juanivb.github.io/docs/reference/customization/</loc>
+    <loc>http://localhost:4321/post/blog-with-jupyter/</loc>
+    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juanivb.github.io/docs/guide/project-structure/</loc>
+    <loc>http://localhost:4321/talk/a-little-talk-about-trust/</loc>
+    <lastmod>2023-02-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juanivb.github.io/docs/guide/configuration/</loc>
+    <loc>http://localhost:4321/event/</loc>
+    <lastmod>2023-02-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juanivb.github.io/docs/guide/</loc>
+    <loc>http://localhost:4321/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juanivb.github.io/docs/</loc>
-    <lastmod>2024-02-17T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/tag/academic/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juanivb.github.io/showcase/nvidia/</loc>
-    <lastmod>2024-02-17T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/categories/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juanivb.github.io/showcase/</loc>
-    <lastmod>2024-02-17T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/category/demo/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juanivb.github.io/blog/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/tags/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juanivb.github.io/tag/hugo/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/post/getting-started/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juanivb.github.io/tag/hugo-blox/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juanivb.github.io/tag/markdown/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juanivb.github.io/tags/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juanivb.github.io/blog/v2.0.0/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juanivb.github.io/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/publication-type/article/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juanivb.github.io/blog/v1.0.0/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/publication_types/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juanivb.github.io/docs/guide/shortcodes/callout/</loc>
+    <loc>http://localhost:4321/publication/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juanivb.github.io/docs/guide/shortcodes/cards/</loc>
+    <loc>http://localhost:4321/tag/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juanivb.github.io/categories/</loc>
+    <loc>http://localhost:4321/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juanivb.github.io/community/</loc>
+    <loc>http://localhost:4321/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juanivb.github.io/docs/reference/i18n/</loc>
+    <loc>http://localhost:4321/slides/example_2/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juanivb.github.io/docs/reference/</loc>
+    <loc>http://localhost:4321/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juanivb.github.io/docs/guide/shortcodes/</loc>
+    <loc>http://localhost:4321/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juanivb.github.io/docs/guide/shortcodes/toggle/</loc>
+    <loc>http://localhost:4321/tag/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juanivb.github.io/docs/guide/shortcodes/steps/</loc>
+    <loc>http://localhost:4321/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tag/time-series/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/project/example/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/publication/journal-article/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/publication-type/article-journal/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/publication-type/paper-conference/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
